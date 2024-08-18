@@ -9,9 +9,13 @@
 * https://code.visualstudio.com/docs/languages/go
 
 # Courses
-## Master the fundamentals and advanced features of the Go Programming Language (Golang)
+## Udemy
 * https://www.udemy.com/course/go-the-complete-developers-guide
 * https://www.udemy.com/course/go-programming-language
+## Youtube
+| Title     | Author     | Link |
+| --------- | ---------- | -----|
+| Go Programming – Golang Course with Bonus Projects | freeCodeCamp | https://www.youtube.com/watch?v=un6ZyFkqFKo |
 
 # Go Fundamentals
 ## Slices
@@ -37,7 +41,7 @@
 * https://www.youtube.com/watch?v=rH0bpx7I2Dk
 * https://www.youtube.com/watch?v=McRq-uBAa9I
 * https://www.youtube.com/watch?v=lh_Uv2imp14
-* https://www.youtube.com/watch?v=un6ZyFkqFKo&t=5676s
+* https://www.youtube.com/watch?v=un6ZyFkqFKo
 
 
 ## Defer
