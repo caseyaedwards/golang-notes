@@ -10,12 +10,22 @@
 
 # Courses
 ## Udemy
-* https://www.udemy.com/course/go-the-complete-developers-guide
-* https://www.udemy.com/course/go-programming-language
+| Title     | Author     | Link |
+| --------- | ---------- | -----|
+| Web Development w/ Google’s Go (golang) Programming Language | Todd McLeod | https://www.udemy.com/course/go-programming-language |
+| Go: The Complete Developer's Guide (Golang) | Stephen Grider | https://www.udemy.com/course/go-the-complete-developers-guide |
+
 ## Youtube
 | Title     | Author     | Link |
 | --------- | ---------- | -----|
 | Go Programming – Golang Course with Bonus Projects | freeCodeCamp | https://www.youtube.com/watch?v=un6ZyFkqFKo |
+| Master the Go Standard Library | Golang Cafe | https://www.youtube.com/watch?v=fJHNhL1FUEs&list=PLLf6iaZKV_xsp2EKR7cgRZFW5u9yVuzBi |
+
+# Misc
+## Youtube
+| Title     | Author     | Link |
+| --------- | ---------- | -----|
+| The standard library now has all you need for advanced routing in Go. | Dreams of Code | https://www.youtube.com/watch?v=H7tbjKFSg58 |
 
 # Go Fundamentals
 ## Slices
